@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "Made With Aura", // required by Discord API, not shown in the client
-        state: "stalking",     // this is what people actually see
+        state: "Chilling",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
