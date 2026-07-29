@@ -19,11 +19,11 @@ export const botConfig = {
     // 1 = Streaming
     // 2 = Listening
     // 3 = Watching
-    // 4 = Custom
+    // 4 = Aura Farming 
     // 5 = Competing
     activities: [
       {
-        name: "Custom Status", // required by Discord API, not shown in the client
+        name: "Made With Aura", // required by Discord API, not shown in the client
         state: "stalking",     // this is what people actually see
         type: 4,               // Custom
       },
@@ -93,7 +93,7 @@ export const botConfig = {
   embeds: {
     colors: {
       // Main brand colors.
-      primary: "#336699",
+      primary: "#97C1E6.",
       secondary: "#2F3136",
 
       // Standard status colors for success/error/warning/info messages.
