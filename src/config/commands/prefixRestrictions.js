@@ -1,5 +1,5 @@
 /**
- * Prefix command restrictions — dashboard and advanced setup flows stay slash-only.
+ * Prefix command restrictions — dashboard and advanced setup flows stay comma-only.
  */
 
 /** Top-level commands that cannot be invoked via prefix at all. */
